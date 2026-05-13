@@ -1,19 +1,16 @@
-COMIENZO:VCARD
-VERSIÓN: 3.0
-NORTE:;;;;
-FN:
-ORGANIZACIÓN:
-ADR;TIPO=TRABAJO:
-TÍTULO:
-TEL;TYPE=CELL:
-TEL;TIPO=TRABAJO:
-TELÉFONO;TIPO=CASA:
-TEL;TYPE=MSG:
-CORREO ELECTRÓNICO; TIPO=TRABAJO:
-URL;TYPE=Tarjeta de presentación digital:
-URL:
-
-CLAVE;TIPO=PGP;CODIFICACIÓN=b:
-NOTA:
+BEGIN:VCARD
+VERSION:3.0
+N:Castaño Acevedo;Santiago;;;
+FN:Santiago Castaño Acevedo
+ORG:CDR Online
+TITLE:Cargo
+TEL;TYPE=CELL:+573122360959
+TEL;TYPE=WORK:+57...
+TEL;TYPE=HOME:+57...
+EMAIL;TYPE=WORK:correo@dominio.com
+ADR;TYPE=WORK:;;Calle 40 A 53 40;Medellín;;;
+URL;TYPE=WORK:https://cdronline.co/
+URL:https://tu-dominio.com/
+NOTE:empresa colombiana con sede en Medellín...
 UID:EnBizCard-100501630
-FIN:VCARD
+END:VCARD
